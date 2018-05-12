@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/d#a662
     - http://www.gutenberg.org/browse/authors/t#a5407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13402#The-Hindu-Yogi-Science-Of-Breath
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
