@@ -1,0 +1,36 @@
+_repo: The-Hindu-Yogi-Science-Of-Breath_13402
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Vishita, Bhakta
+    - Panchadasi, Swami
+    - Ramacharaka, Yogi
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+    - http://www.gutenberg.org/browse/authors/d#a662
+    - http://www.gutenberg.org/browse/authors/t#a5407
+description: ''
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yoga'
+- !lcc 'BF'
+- !lcsh 'Respiration -- Religious aspects -- Hinduism'
+title: The Hindu-Yogi Science Of Breath
+url: http://www.gutenberg.org/ebooks/13402
